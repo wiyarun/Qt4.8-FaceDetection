@@ -56,14 +56,22 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
+<<<<<<< HEAD
       <x>20</x>
+=======
+      <x>300</x>
+>>>>>>> newFeture
       <y>10</y>
       <width>75</width>
       <height>23</height>
      </rect>
     </property>
     <property name="text">
+<<<<<<< HEAD
      <string>master</string>
+=======
+     <string>new feture</string>
+>>>>>>> newFeture
     </property>
    </widget>
   </widget>
